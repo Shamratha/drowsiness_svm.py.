@@ -1,2 +1,2 @@
-# drowsiness_svm.py.
+# drowsiness_svm.
 Driver Drowsiness Detection using SVM — A simple machine learning model using Support Vector Machine (SVM) to classify driver alertness based on simulated Eye Aspect Ratio (EAR) values.
