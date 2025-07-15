@@ -50,3 +50,19 @@ The model is trained and tested using sample data, and the user can input custom
 ```bash
 git clone https://github.com/your-username/driver-drowsiness-svm.git
 cd driver-drowsiness-svm
+
+OUTPUT
+<img width="918" height="1202" alt="image" src="https://github.com/user-attachments/assets/a614f4bd-f724-4c3a-b925-6957e24a9301" />
+
+🔮 Future Enhancements
+🔁 Replace simulated EAR values with live webcam detection using OpenCV
+
+🎥 Real-time video-based drowsiness monitoring
+
+📱 Mobile or dashboard integration for automotive applications
+
+🤖 Try different classifiers like Logistic Regression or Random Forest
+
+🧪 Expand dataset with real user data
+
+
